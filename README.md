@@ -82,10 +82,9 @@ Time spent: 14 hours
   * [wip] Include a plus button to Add an Account
   * [wip] Swipe to delete an account
 
-### License
+## License
 
-See `LICENSE`
-
+* For `htk-ios-Twitter` see `LICENSE`
 * The Font Awesome font is licensed under the SIL OFL 1.1:
   * <http://scripts.sil.org/OFL>
 * Font Awesome by Dave Gandy - <http://fontawesome.io>
